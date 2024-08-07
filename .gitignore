@@ -1,0 +1,6 @@
+sim/ahb_axi4
+sim/qrun.log
+sim/signal_list.do
+.dvt/
+.vscode/
+dvt_build.log
